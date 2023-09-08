@@ -28,7 +28,7 @@ const ConfirmationModal = props => {
       {!isConfirmed && (
         <Fragment>
           <h2 className="">
-            {isModeSend ? "Send" : "Request"} €{amount}{" "}
+            {isModeSend ? "Send" : "Request"} ₹{amount}{" "}
             {isModeSend ? "to" : "from"} {selectedName}?
           </h2>
           <button className="button negative" onClick={closeModal}>
