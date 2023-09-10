@@ -17,9 +17,9 @@ const transactions = [
     executed: true,
     selectedName: "Devdulal",
     amount: 10,
-    newBalance: 990,
+    newBalance: 1000,
     date: "Feb 2",
-    note: "beer"
+    note: "Beer"
   },
   {
     isModeSend: true,
@@ -35,7 +35,7 @@ const transactions = [
     executed: true,
     selectedName: "Manasij",
     amount: 10,
-    newBalance: 990,
+    newBalance: 1000,
     date: "Jan 18",
     note: "cinema"
   }
