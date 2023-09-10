@@ -33,7 +33,7 @@ export const pastTransactions = {
       executed: true,
       selectedName: "Manasij",
       amount: 10,
-      newBalance: 990,
+      newBalance: 1000,
       date: "Jan 18",
       note: "cinema"
     }
